@@ -1,7 +1,7 @@
-# F1-DH140-PROJECT
+# F1-Data-Analysis-DH140-PROJECT
 
 
-This is my dh140 project for the winter quarter 22 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AlejoFernandez126/F1-DH140-PROJECT/HEAD)
+This is my dh140 project for the winter quarter 22 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AlejoFernandez126/F1-Final-Project/HEAD)
 
 
 Detailed PDF for project rubric
